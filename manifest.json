@@ -1,6 +1,7 @@
 {
  "display": "fullscreen",
  "name": "Luciana Vilhena - Depilação Hara Beleza",
+ "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -38,7 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm",
- "theme_color": "#FFFFFF",
- "background_color": "#FFFFFF"
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF"
 }
