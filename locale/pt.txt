@@ -48,7 +48,7 @@ Image_E945913B_C99A_6611_41D2_029F6A189280.url = skin/Image_E945913B_C99A_6611_4
 ## Tour
 
 ### Description
-tour.description = Faça um Tour Virtula 360 graus
+tour.description = Faça um Tour Virtual 360 graus
 
 ### Title
 tour.name = Luciana Vilhena - Depilação Hara Beleza
